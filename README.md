@@ -15,7 +15,7 @@
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Gosto de aprender testando, errando e entendendo como resolver problemas
 - 🛠️ Utilizando Git e GitHub para versionamento de código
-- 🐍 Meu foco principal é back-end
+- 🐍 Meu foco principal é back-end em Python
 
 ## 🌐 Where to find me
 
